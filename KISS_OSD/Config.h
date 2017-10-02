@@ -5,7 +5,7 @@
 // Uncomment ONE if PAL/NTSC autodetection does not work
 //======================================================
 //#define FORCE_NTSC
-//#define FORCE_PAL
+#define FORCE_PAL
 
 // Feature config
 //=============================
@@ -15,7 +15,7 @@
 //#define PROP_ICON
 #define _MAH_ICON
 #define WATTMETER
-#define SHOW_KISS_LOGO
+//#define SHOW_KISS_LOGO
 #define RSSI_
 #define _RSSI_ICON
 #define STOPWATCH_ICON
@@ -35,7 +35,7 @@
 
 // INTERNALS - DO NOT CHANGE
 //=============================
-//#define STEELE_PDB
+#define STEELE_PDB
 //#define STEELE_PDB_OVERRIDE
 //#define BF32_MODE
 
